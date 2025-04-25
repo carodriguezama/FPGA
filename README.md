@@ -1,4 +1,4 @@
-# FPGA Development Projects – Digital Logic @ CMU
+# FPGA Development Projects – Digital Logic 
 
 This repository contains a collection of FPGA projects and experiments developed as part of the Digital Logic course at Colorado Mesa University. All designs are implemented using **Quartus Prime** and deployed on the **DE10-Lite FPGA development board**.
 
