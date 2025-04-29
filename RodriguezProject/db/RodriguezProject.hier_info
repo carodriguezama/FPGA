@@ -1,0 +1,12 @@
+|RodriguezProject
+clk => ~NO_FANOUT~
+SW[0] => LED[0].DATAIN
+SW[1] => ~NO_FANOUT~
+SW[2] => ~NO_FANOUT~
+SW[3] => ~NO_FANOUT~
+LED[0] <= SW[0].DB_MAX_OUTPUT_PORT_TYPE
+LED[1] <= <GND>
+LED[2] <= <GND>
+LED[3] <= <GND>
+
+
