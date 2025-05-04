@@ -8,7 +8,7 @@ The purpose of this repository is to document the learning process of digital sy
 
 ## Repository Structure
 
-This repository only includes the verilog files for the projects.
+This repository includes the complete file. The main Verilog code can be found within each folder.
 
 ## Tools Used
 
@@ -22,7 +22,6 @@ This repository only includes the verilog files for the projects.
 - Combinational logic design
 - Sequential logic (flip-flops, registers, counters)
 - Finite State Machines (Moore/Mealy)
-- Memory (RAM/ROM)
 - Seven segment displays, switches, and LEDs I/O
 - Clock division and timing
   
